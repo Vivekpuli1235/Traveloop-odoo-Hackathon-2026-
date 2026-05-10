@@ -1,0 +1,14 @@
+{
+  "name": "Traveloop",
+  "description": "A personalized, intelligent, and collaborative travel planning platform to dream, design, and organize multi-city trips.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Travel Planning",
+    "Itinerary Building",
+    "Budget Management",
+    "AI Recommendations"
+  ]
+}
