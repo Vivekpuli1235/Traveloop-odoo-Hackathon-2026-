@@ -121,6 +121,13 @@ Traveloop was designed with a heavy emphasis on user experience. Expect smooth h
   alt="Community Ratings"
 />
 
+<h2>Profile</h2>
+
+<img 
+  src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415036/Screenshot_2026-05-10_at_5.26.30_PM_yxcyog.png" 
+  width="100%" 
+  alt="Community Ratings"
+/>
 ---
 
 ## 👨‍💻 Developed By
