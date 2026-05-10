@@ -124,4 +124,4 @@ Traveloop was designed with a heavy emphasis on user experience. Expect smooth h
 ---
 
 ## 👨‍💻 Developed By
-Created for the **Odoo Hackathon 2026** by Vivek Puli.
+Created for the **Odoo Hackathon 2026** by Vivek Puli & Team.
