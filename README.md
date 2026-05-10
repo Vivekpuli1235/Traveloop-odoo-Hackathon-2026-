@@ -77,6 +77,50 @@ The application will be accessible at `http://localhost:3000`.
 
 Traveloop was designed with a heavy emphasis on user experience. Expect smooth hover states, intuitive forms, and a deeply integrated map visualization for discovering new activities!
 
+<h2>🏠 Landing Page</h2>
+<img src="(https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415041/Screenshot_2026-05-10_at_5.24.01_PM_mjakqn.png)" width="100%" />
+
+<h2>📊 Dashboard</h2>
+<img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415044/Screenshot_2026-05-10_at_5.24.18_PM_xgkpqu.png" width="100%" />
+
+<h2>🧳 My Trips</h2>
+<img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415040/Screenshot_2026-05-10_at_5.24.27_PM_wipfmo.png" width="100%" />
+
+<h2>🌍 Explore</h2>
+<img src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415039/Screenshot_2026-05-10_at_5.24.37_PM_rmy31n.png" width="100%" />
+
+<h2>🧳 My Trips</h2>
+
+<img 
+  src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415036/Screenshot_2026-05-10_at_5.25.00_PM_eynqp5.png" 
+  width="100%" 
+  alt="My Trips"
+/>
+
+<h2>➕ Plan a New Trip</h2>
+
+<img 
+  src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415038/Screenshot_2026-05-10_at_5.24.30_PM_jbnt3n.png" 
+  width="100%" 
+  alt="Plan a New Trip"
+/>
+
+<h2>🌍 Explore Destinations</h2>
+
+<img 
+  src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415039/Screenshot_2026-05-10_at_5.24.55_PM_zsoawl.png" 
+  width="100%" 
+  alt="Explore Destinations"
+/>
+
+<h2>👥 Community Ratings</h2>
+
+<img 
+  src="https://res.cloudinary.com/dxr9wzza1/image/upload/v1778415041/Screenshot_2026-05-10_at_5.24.40_PM_j82kuo.png" 
+  width="100%" 
+  alt="Community Ratings"
+/>
+
 ---
 
 ## 👨‍💻 Developed By
